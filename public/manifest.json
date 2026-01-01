@@ -1,0 +1,32 @@
+{
+  "name": "Our Stocks | Realtime Market",
+  "short_name": "Saham Kita",
+  "description": "Real-time stock and crypto market data app with a modern look.",
+  "start_url": "/?utm_source=homescreen",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "48x48",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "96x96",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/jpg",
+      "purpose": "maskable"
+    }
+  ]
+}
