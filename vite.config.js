@@ -17,7 +17,6 @@ export default defineConfig({
   },  
   // To manage application servers (Vue)
   server: {
-    port: 8080,
     host: true,
     allowedHosts: true,
   },
